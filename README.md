@@ -1,6 +1,6 @@
 # The Odin Project - Project Calculator
 
-## <a href="https://notdroid.github.io/calculator/">Live Preview</a><br>
+## <a href="https://notdroid.github.io/top-calculator/">Live Preview</a><br>
 ![image](https://github.com/notDroid/calculator/assets/127229451/330341a8-4f5c-4b8d-aa62-267a4b6e3779)
 
 # _My Work_
